@@ -1,4 +1,6 @@
-### Hi there 👋
+### Achievements
+![AWS-CloudPractitioner-2020](https://user-images.githubusercontent.com/1182337/117163504-b4327180-ad91-11eb-859f-2abe359003c7.png)
+
 
 <!--
 **chadicus/chadicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
