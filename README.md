@@ -1,6 +1,7 @@
 ### Achievements
 ![AWS-CloudPractitioner-2020](https://user-images.githubusercontent.com/1182337/117163504-b4327180-ad91-11eb-859f-2abe359003c7.png)
 
+![AWS-SolArchitect-Associate-2020](https://user-images.githubusercontent.com/1182337/139451598-1f2b741b-dee7-4e4a-be2e-86ca4497e734.png)
 
 <!--
 **chadicus/chadicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
